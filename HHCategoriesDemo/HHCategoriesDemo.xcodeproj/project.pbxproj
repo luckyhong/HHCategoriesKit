@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D48C833520B06C8400CF4FDB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D48C833420B06C8400CF4FDB /* AppDelegate.m */; };
-		D48C833820B06C8400CF4FDB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D48C833720B06C8400CF4FDB /* ViewController.m */; };
+		D48C833520B06C8400CF4FDB /* HHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D48C833420B06C8400CF4FDB /* HHAppDelegate.m */; };
+		D48C833820B06C8400CF4FDB /* HHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D48C833720B06C8400CF4FDB /* HHViewController.m */; };
 		D48C833B20B06C8400CF4FDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D48C833920B06C8400CF4FDB /* Main.storyboard */; };
 		D48C833D20B06C8400CF4FDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D48C833C20B06C8400CF4FDB /* Assets.xcassets */; };
 		D48C834020B06C8400CF4FDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D48C833E20B06C8400CF4FDB /* LaunchScreen.storyboard */; };
@@ -36,10 +36,10 @@
 
 /* Begin PBXFileReference section */
 		D48C833020B06C8400CF4FDB /* HHCategoriesDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HHCategoriesDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D48C833320B06C8400CF4FDB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D48C833420B06C8400CF4FDB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D48C833620B06C8400CF4FDB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D48C833720B06C8400CF4FDB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D48C833320B06C8400CF4FDB /* HHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HHAppDelegate.h; sourceTree = "<group>"; };
+		D48C833420B06C8400CF4FDB /* HHAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HHAppDelegate.m; sourceTree = "<group>"; };
+		D48C833620B06C8400CF4FDB /* HHViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HHViewController.h; sourceTree = "<group>"; };
+		D48C833720B06C8400CF4FDB /* HHViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HHViewController.m; sourceTree = "<group>"; };
 		D48C833A20B06C8400CF4FDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D48C833C20B06C8400CF4FDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D48C833F20B06C8400CF4FDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -101,10 +101,10 @@
 		D48C833220B06C8400CF4FDB /* HHCategoriesDemo */ = {
 			isa = PBXGroup;
 			children = (
-				D48C833320B06C8400CF4FDB /* AppDelegate.h */,
-				D48C833420B06C8400CF4FDB /* AppDelegate.m */,
-				D48C833620B06C8400CF4FDB /* ViewController.h */,
-				D48C833720B06C8400CF4FDB /* ViewController.m */,
+				D48C833320B06C8400CF4FDB /* HHAppDelegate.h */,
+				D48C833420B06C8400CF4FDB /* HHAppDelegate.m */,
+				D48C833620B06C8400CF4FDB /* HHViewController.h */,
+				D48C833720B06C8400CF4FDB /* HHViewController.m */,
 				D48C833920B06C8400CF4FDB /* Main.storyboard */,
 				D48C833C20B06C8400CF4FDB /* Assets.xcassets */,
 				D48C833E20B06C8400CF4FDB /* LaunchScreen.storyboard */,
@@ -265,9 +265,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D48C833820B06C8400CF4FDB /* ViewController.m in Sources */,
+				D48C833820B06C8400CF4FDB /* HHViewController.m in Sources */,
 				D48C834320B06C8400CF4FDB /* main.m in Sources */,
-				D48C833520B06C8400CF4FDB /* AppDelegate.m in Sources */,
+				D48C833520B06C8400CF4FDB /* HHAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

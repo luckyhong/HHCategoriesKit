@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  HHViewController.m
 //  HHCategoriesDemo
 //
 //  Created by Jihong Han on 2018/5/19.
 //  Copyright © 2018年 Jihong Han. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "HHViewController.h"
 
-@interface ViewController ()
+@interface HHViewController ()
 
 @end
 
-@implementation ViewController
+@implementation HHViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

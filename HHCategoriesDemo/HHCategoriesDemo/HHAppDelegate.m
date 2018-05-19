@@ -1,18 +1,18 @@
 //
-//  AppDelegate.m
+//  HHAppDelegate.m
 //  HHCategoriesDemo
 //
 //  Created by Jihong Han on 2018/5/19.
 //  Copyright © 2018年 Jihong Han. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "HHAppDelegate.h"
 
-@interface AppDelegate ()
+@interface HHAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation HHAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

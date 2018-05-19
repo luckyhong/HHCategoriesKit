@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  HHAppDelegate.h
 //  HHCategoriesDemo
 //
 //  Created by Jihong Han on 2018/5/19.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface HHAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

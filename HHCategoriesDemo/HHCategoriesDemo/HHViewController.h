@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HHViewController.h
 //  HHCategoriesDemo
 //
 //  Created by Jihong Han on 2018/5/19.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface HHViewController : UIViewController
 
 
 @end
